@@ -1,4 +1,4 @@
-![WELCOME](fatimaazfar/to my Github Profile.gif)
+![WELCOME](to%my%Github%Profile.gif)
 
 # Hi there! 👋 I'm Fatima, a Data Scientist 📊
 
