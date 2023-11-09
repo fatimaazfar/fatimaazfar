@@ -1,6 +1,6 @@
-![WELCOME](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBhZnZpejJpczY3azZ4d2NnMjlsbzhkYmszeHZtZ204NHpsZmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDR4UoVZORmCG9mUap/giphy.gif)
+![WELCOME](to my Github Profile.gif)
 
-# Hi there! 👋 I'm [Fatima], a Data Scientist 📊
+# Hi there! 👋 I'm Fatima, a Data Scientist 📊
 
 Welcome to my GitHub profile! Here, you'll find some of my data science projects and explorations. Feel free to explore and learn more about my work.
 
