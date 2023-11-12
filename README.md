@@ -1,4 +1,4 @@
-![WELCOME](0_i51m08_QpBkfxQbx.gif)
+![WELCOME](fatima.gif)
 
 # Hi there! 👋 I'm Fatima, a Data Scientist 📊
 
