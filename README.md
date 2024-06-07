@@ -1,34 +1,47 @@
-# Hello!👋 I'm Fatima, a Data Scientist 🚀
+# Hi there, I'm Fatima Azfar 👋
 
-Welcome to my GitHub! This space showcases my journey in data science, featuring projects that highlight my passion for uncovering insights and solving complex challenges through data.
+[![Profile views](https://komarev.com/ghpvc/?username=fatimaazfar&color=blue)](https://github.com/fatimaazfar)
+[![GitHub followers](https://img.shields.io/github/followers/fatimaazfar?label=Follow&style=social)](https://github.com/fatimaazfar)
 
-## About Me
+## 🚀 About Me
+I am a Data Science graduate with a strong background in Computer Vision, Natural Language Processing (NLP), Deep Learning, and Machine Learning. I have developed various projects, ranging from skin disease detection using fine-tuned models to advanced NLP tasks like text summarization and sentiment analysis.
 
-I am a data scientist currently completing my BS in Data Science from FAST NUCES, specializing in Computer Vision. My work experience as an intern at various organizations has honed my skills in developing predictive models, engineering data solutions, and crafting interactive dashboards. I bring a robust background in advanced analytics, machine learning, and data visualization to drive impactful decisions.
+## 🛠️ My Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
-### What I Bring to the Table
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=fatimaazfar&theme=onedark)
 
-- **Proficiency in Programming Languages:** Python, SQL, R, GO, Ruby, and C/C++.
-- **Versatile Toolset:** Experienced with PowerBI, Google Looker Studio, and Google Analytics 4 for BI; proficient in TensorFlow, PyTorch, Scikit-Learn, and Keras for machine learning.
-- **Domain Expertise:** Specialized in Data Analysis, Data Visualization, Computer Vision, and Natural Language Processing (NLP).
-- **Notable Projects:** Led projects like Skin Disease Detection using federated learning.
+## 📄 Profile Summary Card
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimaazfar&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## My Notable Projects
+## 🗂️ My Projects
 
-- **Global-Carbon-Budget-Dashboard:** Winner of the Data Visualization Competition at SOFTEC '24, this project showcases an interactive dashboard visualizing Global Carbon Budget data, emphasizing the tracking of carbon dioxide emissions across different countries and sectors.
+I have developed a diverse portfolio of projects that reflect my expertise in data science, machine learning, and web development. Among my notable projects, EpiDetect is a comprehensive MERN stack web application that leverages a fine-tuned ResNet50 model for skin disease detection, showcasing my proficiency in both backend and frontend technologies. The Text-Summarizer project demonstrates my skills in Natural Language Processing (NLP) through the development of a Seq2Seq model with LSTM units, effectively summarizing text using an encoder-decoder architecture. In ResNet-Optima, I have advanced the classic ResNet architecture to address challenges in deep learning, focusing on generalization and computational efficiency. My Text-to-Image-Generator-CGAN project highlights my ability to implement Generative Adversarial Networks (GANs) for synthesizing images from textual descriptions. Additionally, the Urdu-Sentiment-Analysis project employs deep learning models to analyze sentiments in Urdu tweets, further expanding my expertise in NLP. Other projects like Google-Maps-Scraper, Movie-Script-Analysis, and Earthquake-Mag-Predictor demonstrate my capabilities in web scraping, NLP, and predictive modeling, respectively. Each project not only illustrates my technical skills but also my commitment to solving real-world problems through innovative and effective data-driven solutions.
 
-- **Mitosis-Detection:** A computer vision project using CNNs, VGG-11, and DenseNet to classify mitosis versus normal images in medical diagnostics, enhancing accuracy with advanced techniques like focal loss and hyperparameter optimization.
+## 📫 Let's Connect
+- LinkedIn: [Fatima Azfar](https://www.linkedin.com/in/fatima-azfar-ziya/)
+- GitHub: [Fatima Azfar](https://github.com/fatimaazfar)
+- Kaggle: [Fatima Azfar](https://www.kaggle.com/fatimaazfarziya)
+- Email: fatimaazfar381@gmail.com
 
-- **PFA_Operations_Map_Dashboard:** A Power BI dashboard developed for the Punjab Food Authority to supervise operations across the province, integrating data analysis, preprocessing, and visualization.
-
-- **Earthquake-Mag-Predictor:** A machine learning model employing neural networks to predict earthquake magnitudes, showcasing my ability in data preprocessing, feature engineering, and model evaluation.
-- **Chinese-Lyrics-Similarity-NLP:** A sophisticated NLP endeavor analyzing similarities in Chinese sentences and lyrics, employing advanced techniques like TF-IDF and BERT embeddings.
-
-- **Google-Maps-Scraper:** A Python-based automation tool that scrapes Google Maps for valuable information, demonstrating my skills in web scraping and data extraction.
-
-Each project is a testament to my ability to apply data science for practical and impactful solutions. Feel free to explore the repositories to learn more about my work and approach.
-
----
-## Connect & Collaborate
-
-Let's dive into data together! I'm always interested in discussing new ideas, collaborations, or just talking data. Feel free to reach out to me through my LinkedIn profile [Fatima Azfar Ziya](https://www.linkedin.com/in/fatima-azfar-ziya-52a566154/).
+Feel free to reach out if you have any questions or would like to collaborate on a project!
