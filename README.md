@@ -1,4 +1,4 @@
-# Hi there, I'm Fatima Azfar 👋
+# Hi there, I'm Fatima 👋
 
 [![Profile views](https://komarev.com/ghpvc/?username=fatimaazfar&color=blue)](https://github.com/fatimaazfar)
 [![GitHub followers](https://img.shields.io/github/followers/fatimaazfar?label=Follow&style=social)](https://github.com/fatimaazfar)
