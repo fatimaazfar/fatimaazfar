@@ -7,7 +7,7 @@
 I am a Data Science graduate with a strong background in Computer Vision, Natural Language Processing (NLP), Deep Learning, and Machine Learning. I have developed various projects, ranging from skin disease detection using fine-tuned models to advanced NLP tasks like text summarization and sentiment analysis.
 
 ## 🛠️ My Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -28,23 +28,33 @@ I am a Data Science graduate with a strong background in Computer Vision, Natura
 </p>
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=fatimaazfar&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatimaazfar&theme=onedark" alt="trophy">
+</p>
 
 ## 📄 Profile Summary Card
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimaazfar&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimaazfar&theme=monokai">
+  </a>
+</p>
 
 ## 🗂️ My Projects
 
 I have developed a diverse portfolio of projects that reflect my expertise in data science, machine learning, and web development. Among my notable projects, EpiDetect is a comprehensive MERN stack web application that leverages a fine-tuned ResNet50 model for skin disease detection, showcasing my proficiency in both backend and frontend technologies. The Text-Summarizer project demonstrates my skills in Natural Language Processing (NLP) through the development of a Seq2Seq model with LSTM units, effectively summarizing text using an encoder-decoder architecture. In ResNet-Optima, I have advanced the classic ResNet architecture to address challenges in deep learning, focusing on generalization and computational efficiency. My Text-to-Image-Generator-CGAN project highlights my ability to implement Generative Adversarial Networks (GANs) for synthesizing images from textual descriptions. Additionally, the Urdu-Sentiment-Analysis project employs deep learning models to analyze sentiments in Urdu tweets, further expanding my expertise in NLP. Other projects like Google-Maps-Scraper, Movie-Script-Analysis, and Earthquake-Mag-Predictor demonstrate my capabilities in web scraping, NLP, and predictive modeling, respectively. Each project not only illustrates my technical skills but also my commitment to solving real-world problems through innovative and effective data-driven solutions.
 
+---
+
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=fatimaazfar&theme=onedark&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=fatimaazfar&theme=monokai&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=fatimaazfar&show_icons=true&theme=onedark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaazfar&size_weight=0.15&count_weight=0.5&layout=compact&theme=onedark">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=fatimaazfar&show_icons=true&theme=monokai">
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaazfar&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
 </p>
+
+---
 
 ## 📫 Let's Connect
 - LinkedIn: [Fatima Azfar]([https://www.linkedin.com/in/fatima-azfar-ziya/](https://www.linkedin.com/in/fatima-azfar-ziya-52a566154/))
