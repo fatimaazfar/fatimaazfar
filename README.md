@@ -50,8 +50,8 @@ I have developed a diverse portfolio of projects that reflect my expertise in da
 </p>
 
 <p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=fatimaazfar&show_icons=true&theme=monokai">
-  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaazfar&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
+  <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=fatimaazfar&show_icons=true&theme=monokai">
+  <img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaazfar&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
 </p>
 
 ---
