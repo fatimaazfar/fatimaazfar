@@ -35,7 +35,7 @@ I am a Data Scientist with a strong background in Computer Vision, Natural Langu
 ## 📄 Profile Summary Card
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="800" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimaazfar&theme=monokai">
+    <img width="1000" height="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatimaazfar&theme=monokai">
   </a>
 </p>
 
