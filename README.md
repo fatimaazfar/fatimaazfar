@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/fatimaazfar?label=Follow&style=social)](https://github.com/fatimaazfar)
 
 ## 🚀 About Me
-I am a Data Science graduate with a strong background in Computer Vision, Natural Language Processing (NLP), Deep Learning, and Machine Learning. I have developed various projects, ranging from skin disease detection using fine-tuned models to advanced NLP tasks like text summarization and sentiment analysis.
+I am a Data Scientist with a strong background in Computer Vision, Natural Language Processing (NLP), Deep Learning, and Machine Learning. I have developed various projects, ranging from skin disease detection using fine-tuned models to advanced NLP tasks like text summarization and sentiment analysis. I am currently working on LLMs to build interactive Chatbots!
 
 ## 🛠️ My Tech Stack
 <p align="center">
