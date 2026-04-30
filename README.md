@@ -30,6 +30,8 @@ I am an **AI Solutions Developer and Data Scientist** with deep expertise in Com
 
 My work spans full SaaS platforms, agentic pipelines, real-time government dashboards, federated learning systems, and multimodal medical AI - systems that are deployed, trusted, and used. I work and lead teams across the full stack: AI research, system architecture, backend, and product.
 
+Quickly check out my portfolio: https://fatimaazfar.github.io/
+
 **Core Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
